@@ -2,7 +2,6 @@
 Per metro
 ## Metro Gialla
 - COMASINA
-COMASINA
 - AFFORI FN
 - AFFORI CENTRO
 - DERGANO
